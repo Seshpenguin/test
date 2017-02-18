@@ -1,6 +1,6 @@
-function(
-    )};
-    //some commentt yayayay 2 way comms
-    This is doing this 2 wayyyyyy
-    
-//END
+function foo(items) {
+                    var x = "All this is syntax highlighted";
+                    return x;
+                }  fhuweiphfewuip
+                
+                ffffff
