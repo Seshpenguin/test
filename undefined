@@ -4,3 +4,5 @@
 * Have fun!
 */
 int main(void){
+    cout << stuff;
+}
