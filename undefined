@@ -1,5 +1,4 @@
-int main(void){
-    cout << "Hello World";
-
-    //This is a comment, look, H
-}
+function foo(items) {
+                    var x = "All this is syntax highlighted";
+                    return x; wowowowo
+                }
