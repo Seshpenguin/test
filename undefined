@@ -7,4 +7,6 @@ DT R!?245j?
   Hello!
   wow
   wow wowowow!!!!
-  function (St)
+  function (String args){4
+      Systemout.pintln
+  }
