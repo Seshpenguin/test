@@ -1,3 +1,5 @@
 system.out.println("");
 Hello there monsiuour!
-function
+function(){
+    //Hay
+}
