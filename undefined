@@ -1,0 +1,4 @@
+function foo(items) {
+                    varf x = "All this is syntax highlighted";
+                    ;return x;
+                }he;
