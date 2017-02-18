@@ -1,4 +1,4 @@
 function foo(items) {
                     varf x = "All this is syntax highlighted";
-                    ;return x;
-                }he;
+                    ;ret urn x;
+                }he;lo wo
