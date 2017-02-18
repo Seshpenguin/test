@@ -3,3 +3,4 @@
 * But hey, atleast it works!
 * Have fun!
 */
+int main(void){
