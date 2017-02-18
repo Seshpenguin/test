@@ -1,12 +1,4 @@
-DT R!?245j?
-545oowoww
-  r?s isarorf rrr
-  so yea!
-  fwewfewfewqfweq
-  Hello!
-  Hello!// this isaent
-  wow
-  wow wowowow!!!!
-  function (String args){
-      System.out.println("Hi, Sgalk;sjdf;lkjasdgi"hgosi)
-  }
+function foo(items) {
+                    var x = "All this is syntax highlighted";
+                    return x;
+                }
