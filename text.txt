@@ -3,9 +3,10 @@
 //Look at this amazong realtime ;)
 int main(void){
     cout << "Syntax Highlighting!!!!";
+    cout << isTur
 }
 bool isTrue(a){
     if(a == b){
-        ret
+        return c;
     }
 }
