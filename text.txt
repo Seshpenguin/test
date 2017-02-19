@@ -3,7 +3,7 @@
 //Look at this amazong realtime ;)
 int main(void){
     cout << "Syntax Highlighting!!!!";
-    cout << isTur
+    cout << isTrue(x);
 }
 bool isTrue(a){
     if(a == b){
