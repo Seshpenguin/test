@@ -2,5 +2,5 @@
 //This is a prototype of GitRTC!!!
 //Look at this amazong realtime ;)
 int main(void){
-    cout << "Synta";
+    cout << "Syntax Highlighting!!!!";
 }
