@@ -3,3 +3,4 @@ function foo(items) {
                     return x;
                 } nfwjeka;g
                 ff
+                ygugyugy
