@@ -4,4 +4,8 @@
 int main(void){
     cout << "Syntax Highlighting!!!!";
 }
-bool isTrue
+bool isTrue(a){
+    if(a == b){
+        ret
+    }
+}
