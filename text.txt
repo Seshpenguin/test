@@ -9,4 +9,4 @@ bool isTrue(a){
     if(a == b){
         return c;
     }
-}huiobuigsyufgbeayugf
+}huiobuigs
