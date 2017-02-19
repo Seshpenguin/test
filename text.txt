@@ -1,4 +1,2 @@
-function foo(items) {huihuihhi
-                    var x = "All this is syntax highlighted";
-                    return x;
-                }gghhbvjfkdkdi7
+OMG IT WORKS!!!!!!!
+FRNEJKFNEWIUFEWUIFBEWQUI
