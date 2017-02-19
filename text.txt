@@ -1,12 +1,4 @@
-//Hello World!
-//This is a prototype of GitRTC!!!
-//Look at this amazong realtime ;)
-int main(void){
-    cout << "Syntax Highlighting!!!!";
-    cout << isTrue(x);
-}
-bool isTrue(a){
-    if(a == b){
-        return c;
-    }
-}huiobuigs
+NOPE you suck so bad eh
+eh
+eh
+th
