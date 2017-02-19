@@ -1,3 +1,6 @@
 //Hello World!
 //This is a prototype of GitRTC!!!
-//Look at this amazong realti
+//Look at this amazong realtime ;)
+int main(void){
+    cout <
+}
