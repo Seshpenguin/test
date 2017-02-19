@@ -1,2 +1,3 @@
 //Hello World!
-//This is a prot
+//This is a prototype of GitRTC!!!
+//Look at this amazong realti
